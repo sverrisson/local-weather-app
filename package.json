@@ -15,7 +15,7 @@
     "semi": false,
     "singleQuote": true,
     "trailingComma": "es5",
-    "parser": "typescript",
+    "parser": "typescript"
   },
   "private": true,
   "dependencies": {
